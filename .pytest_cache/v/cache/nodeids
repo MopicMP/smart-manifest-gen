@@ -1,0 +1,5 @@
+[
+  "tests/test_smart_manifest_gen.py::TestGen::test_basic",
+  "tests/test_smart_manifest_gen.py::TestGen::test_empty",
+  "tests/test_smart_manifest_gen.py::TestGen::test_type_error"
+]
